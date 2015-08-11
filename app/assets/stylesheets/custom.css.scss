@@ -5,6 +5,22 @@
 
 $gray-medium-light: #eaeaea;
 
+.navbar-inner {
+  background-color: black;
+}
+
+.navbar .nav > li > a {
+  text-transform: uppercase;
+  color: white;
+  text-shadow: 1px 1px red;
+  font-weight: bold;
+  &:hover {
+    color: red;
+    text-shadow: none;
+    background-color: black;
+  }
+}
+
 /* universal */
 
 body {
@@ -65,6 +81,7 @@ p {
   letter-spacing: -1px;
   padding-top: 9px;
   font-weight: bold;
+  text-shadow: 1px 1px red;
   &:hover {
     color: white;
     text-decoration: none;
