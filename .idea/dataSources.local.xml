@@ -4,17 +4,12 @@
     <data-source name="Rails sample_app: development" uuid="dad3a1ad-ea37-4ebd-bf39-ee149b9a7f26">
       <user-name>postgres</user-name>
       <user-password>dfdedfd8dfc5dfc6dfc5dfc6dfc5</user-password>
-      <schema-pattern>sample_app_development.pg_catalog sample_app_development.public</schema-pattern>
-      <default-schemas>sample_app_development.pg_catalog sample_app_development.public</default-schemas>
     </data-source>
     <data-source name="Rails sample_app: test" uuid="4763f9cc-d031-4c25-925e-cec5daa841fb">
       <user-name>postgres</user-name>
       <user-password>dfdedfd8dfc5dfc6dfc5dfc6dfc5</user-password>
-      <schema-pattern>sample_app_test.pg_catalog sample_app_test.public</schema-pattern>
-      <default-schemas>sample_app_test.pg_catalog sample_app_test.public</default-schemas>
     </data-source>
     <data-source name="Rails sample_app: production" uuid="37b68da9-e7bc-42e6-b605-78ae77cb8191">
-      <first-sync>true</first-sync>
       <user-name>sample_app</user-name>
       <user-password>df96df8fdf97df8adfefdfe4dffcdff1df8ddff9dfebdfe7dffadfe6dfefdff5dfebdffadffadff5dfeedfebdffedfebdfe8dfebdff9dfefdff5dffadfebdff9dff9dffddfe5dff8dfeedf8ddff7df8adf8fdf94</user-password>
     </data-source>
