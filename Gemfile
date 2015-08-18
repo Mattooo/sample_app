@@ -25,6 +25,9 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 gem 'bootstrap-sass'
 gem 'bcrypt'
 gem 'faker'
+gem 'carrierwave'
+gem 'mini_magick',             '3.8.0'
+gem 'fog'
 gem 'will_paginate'
 gem 'bootstrap-will_paginate'
 
