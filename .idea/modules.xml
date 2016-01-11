@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/../fitlife_app/.idea/fitlife_app.iml" filepath="$PROJECT_DIR$/../fitlife_app/.idea/fitlife_app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../forms_app/.idea/forms_app.iml" filepath="$PROJECT_DIR$/../forms_app/.idea/forms_app.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/sample_app.iml" filepath="$PROJECT_DIR$/.idea/sample_app.iml" />
     </modules>
   </component>
